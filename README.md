@@ -1,4 +1,5 @@
 ![download.png](https://www.linkedin.com/in/nitin-verma-a651951a9)
+![alt text](http://url/to/img.png)
 ### Hi there 👋
 I am Nitin Verma. I have interest in data science skills - statistical modelling, predictive analysis, data interpretation and visualisation.  
 I am very keen to learn New Data Science tools or New Techonologies related to Data Science. 
